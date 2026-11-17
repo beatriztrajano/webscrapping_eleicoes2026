@@ -1,0 +1,9 @@
+requests
+pandas
+numpy
+matplotlib
+scikit-learn
+geobr
+plotly>=5.24
+ipywidgets
+duckdb>=1.5,<2

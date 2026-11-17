@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.zip
+*.part
+dados_painel_eleitoral/
+atividade_eleicoes_2026/dados/json_cache/
