@@ -1,6 +1,6 @@
 # Eleições 2026 — Web scraping, estatística e painel interativo
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU-USUARIO/SEU-REPOSITORIO/blob/main/eleicoes_2026_webscraping.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/beatriztrajano/webscrapping_eleicoes2026/blob/main/eleicoes_2026_webscraping.ipynb)
 
 Projeto acadêmico de ciência de dados com os resultados das **Eleições 2026** (Presidente e Governador, 1º e 2º turno), feito em Python no Google Colab.
 
